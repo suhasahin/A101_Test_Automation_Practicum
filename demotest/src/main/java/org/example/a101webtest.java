@@ -33,7 +33,7 @@ public class a101webtest {
   @Test
   public void waittest() {
     driver.get("https://www.a101.com.tr/");
-    driver.manage().window().setSize(new Dimension(2576, 1416));
+    driver.manage().window().maximize();
     driver.findElement(By.id("CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll")).click();
     driver.findElement(By.cssSelector(".desktop-menu > .js-navigation-item:nth-child(4) > a")).click();
     WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
