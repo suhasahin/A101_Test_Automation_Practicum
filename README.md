@@ -9,8 +9,12 @@
 https://cohorts.patika.dev/cohortDetails/a101-test-otomasyon-practicum
 ```
 
-![video]https://cdn.discordapp.com/attachments/1014851699678138456/1023312581785555104/testson1.mp4
-
 ```
 https://www.a101.com.tr
 ```
+
+
+
+Test videosu : !(https://www.youtube.com/watch?v=7kSV1t0Dha0)
+
+
