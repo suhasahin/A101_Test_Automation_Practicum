@@ -15,6 +15,6 @@ https://www.a101.com.tr
 
 
 
-Test videosu : !(https://www.youtube.com/watch?v=7kSV1t0Dha0)
+Test videosu : https://www.youtube.com/watch?v=7kSV1t0Dha0)
 
 
